@@ -1,1 +1,13 @@
-## Greetings from our team
+## Greetings from our team 🎉
+
+
+Here is the list of lovely repositories:
+
+[near-unity-toolkit](https://github.com/like-in-SAO/near-unity-toolkit) - unity plugin for game development and its source code.
+
+[template-contracts](https://github.com/like-in-SAO/template-contracts) - infrastructure and peripheral contracts which are used in our ecosystems.
+
+[web-nft-explorer](https://github.com/like-in-SAO/web-nft-explorer) - the explorer where you could find your ingame NFTs and list of all games. 
+It also serves as our main page 😁
+
+[2d-game-example](https://github.com/like-in-SAO/2d-game-example) - example of a simple 2d game using our toolkit.
