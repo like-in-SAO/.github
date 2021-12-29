@@ -17,15 +17,3 @@ Here is the list of lovely repositories:
 It also serves as our main page 😁
 
 [2d-game-example](https://github.com/like-in-SAO/2d-game-example) - example of a simple 2d game using our toolkit.
-
-
-
-
-## Changelog and plans
-
-- [0.2] 27.12.12 Mainnet Launch
-
-  - [In Develoment] Deploying contracts from Unity. Testing for all platform builds.
-  - [Done] Unity C# SDK integration. Sign In, creating accounts, contract calls, and transfers. Registry contract, NFT, and FT ingame contracts. 
-
-- [0.1] 18.12.12 Proof of concept.
